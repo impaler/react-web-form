@@ -10,7 +10,7 @@ import {
 import { createBrowserHistory } from 'history'
 
 const initialState = {
-    user: initialProfileState,
+    profile: initialProfileState,
     router: {
         location: '/'
     }

@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import { ProfileColors } from '../../styles/colors'
 
 export const ProfileFormField = styled.input.attrs({
-    autocomplete: 'off'
+    autoComplete: 'off'
 })`
   display: flex;
   flex-direction: column;

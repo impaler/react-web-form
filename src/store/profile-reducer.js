@@ -1,9 +1,9 @@
 export const initialProfileState = {
     name: '',
     email: '',
-    day: null,
-    month: null,
-    year: null,
+    day: '',
+    month: '',
+    year: '',
 }
 
 const SUBMIT_PROFILE = 'submit-profile'
